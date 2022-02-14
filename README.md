@@ -15,5 +15,5 @@ pls check
 https://github.com/Pradyumn-Patil/updated-research-paper-links-/blob/main/IEEE_TY_45%20.pdf
 
 # Enquiry Management system for small and Medium enterprises
-
+https://github.com/Pradyumn-Patil/updated-research-paper-links-/blob/main/SMAD_ACM_Journals_Primary_Article_Template.pdf
 

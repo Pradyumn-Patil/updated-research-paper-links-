@@ -11,6 +11,9 @@ https://arxiv.org/abs/2111.13813
 updated 
 pls check 
 
-IEEE_TY_45.pdf 
+# Effects of Keyframe extraction on CNN+LSTM based model for Video Content Classification
 https://github.com/Pradyumn-Patil/updated-research-paper-links-/blob/main/IEEE_TY_45%20.pdf
+
+# Enquiry Management system for small and Medium enterprises
+
 
